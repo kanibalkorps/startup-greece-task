@@ -1,0 +1,9 @@
+.input-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#message-box {
+  text-align: justify;
+}/*# sourceMappingURL=style.css.map */
